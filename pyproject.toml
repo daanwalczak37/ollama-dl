@@ -4,3 +4,4 @@ version = "0.1.0"
 description = "Download models from the Ollama library, without Ollama"
 requires-python = ">=3.10"
 # clarify the control flow
+# guard against empty input
